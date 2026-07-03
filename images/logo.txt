@@ -1,0 +1,3 @@
+Replace this file with your company logo.
+Supported formats: PNG, SVG, WebP. Recommended size: 200x60px or similar aspect ratio.
+Name the file "logo.png" or update the src attribute in index.html and service pages.
