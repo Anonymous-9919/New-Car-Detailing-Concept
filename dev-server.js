@@ -48,5 +48,5 @@ app.post("/api/contact", async (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`NVM Protection running at http://localhost:${PORT}`);
+  console.log(`Prestige Auto Shield running at http://localhost:${PORT}`);
 });

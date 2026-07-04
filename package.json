@@ -1,7 +1,7 @@
 {
-  "name": "nvmprotection",
-  "version": "1.0.0",
-  "description": "NVM Protection - Premium Car Protection Services in Kuwait",
+  "name": "prestige-auto-shield",
+  "version": "2.0.0",
+  "description": "Prestige Auto Shield - Premium Car Protection Services in Kuwait",
   "main": "cli-demo.js",
   "type": "module",
   "scripts": {
